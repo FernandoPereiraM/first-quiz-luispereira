@@ -56,19 +56,17 @@ Remember that our team is here for you, and truly excited that each and everyone
 
 We highly recommend that you find a way to complete this challenge locally. We have designed this to require minimal packages, and if you have access to a Linux terminal, you should be able to edit and run all the code. If you absolutely cannot do so at this stage, you can also use most online REPLs such as Github Dev or REPL.it which should support the packages needed. Please keep in mind that the second stage requires a proper localhost environment setup for full stack development.
 
-If you don't have a native Linux terminal, and for example, are with a Windows machine, you can also find workarounds that allow you to get the code up and running! We encourage you to use the internet to find the equivalent commands to run the code. Remember, too, that we have provided _convenience_ configuration commands, but they are not entirely necessary to complete the test.
-
 *What if I don't understand certain instructions?*
 
 Part of the test is seeing an existing code base and being able to navigate the documentation and files no matter what. We encourage you to use Google, translators, and to play around with the code until it makes more sense how to proceed. The ver+ team will unfortunately NOT be providing clarifications to the instructions.
 
-*Can I make edits to any file? Including the test files?*
-
-Great question! It is up to you to edit and decide what is necessary to make a complete submission. We value attention to detail so please feel free to make necessary edits when you find them!
-
 *What if I discover a bug with the code?*
 
 If you believe you've discovered a true error that would prevent anyone from completing the test, please message Karen Sun in the Slack channel. You should have received a link to the Slack channel if you are eligible for this stage of the test!
+
+*What if I want to make changes to my pull request?*
+
+Yay! That's the beauty of Git. If you create your pull request before the deadline and would like to make changes, go ahead and push new commits to your pull request. We will only judge the most recent code before the deadline. In fact, we encourage you to create a pull request early and make constant pushes.
 
 *I found this repository. Can I make a submission?*
 

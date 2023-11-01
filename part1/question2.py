@@ -17,5 +17,15 @@
 
 swapper = None
 
+
+def swap(tup):
+    if len(tup) != 2:
+        raise ValueError("Error!")
+    return tup[1], tup[0]
+
+
+swapper = swap
+
+
 def run_swapper(list_of_tuples):
-  return list(map(swapper, list_of_tuples))
+    return list(map(swapper, list_of_tuples))
